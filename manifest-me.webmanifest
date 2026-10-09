@@ -1,0 +1,29 @@
+{
+  "name": "Behaviour Data · Me",
+  "short_name": "bxdata me",
+  "description": "My own habits and goals. Kept apart from client data, with its own PIN.",
+  "start_url": "./?mode=me",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#004954",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "./?mode=me"
+}
